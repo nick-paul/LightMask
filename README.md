@@ -6,6 +6,8 @@ A 2d flood-fill lighting engine
 
 # Running the demo
 
+The demo requires SDL2. The LightMask engine itself has no external dependencies.
+
 ```
 git clone https://github.com/nick-paul/LightMask.git
 cd LightMask

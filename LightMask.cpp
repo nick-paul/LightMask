@@ -1,6 +1,6 @@
 #include <vector>
 #include <algorithm> // min, max
-#include <iostream>
+
 #include "LightMask.hpp"
 
 LightMask::LightMask(int width, int height)
