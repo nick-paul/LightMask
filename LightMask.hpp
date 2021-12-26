@@ -125,7 +125,7 @@ private:
     {
         // Backward prop
         // First (bottom) row
-        for (int x = width_-1; x >=0; x--)
+        for (int x = width_-2; x >=0; x--)
         {
             int y = height_-1;
             // Only compare to pixel on the left
